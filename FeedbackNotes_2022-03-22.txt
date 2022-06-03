@@ -1,0 +1,29 @@
+Data
+- Reliable source of data
+- Visual cross validation
+
+
+- Nr of dropped categories
+- 
+
+
+- Dont flatten too soon
+- Dont grayscale too soon
+- Let the pre-trained model handle that
+
+- Explain the flat approach to category
+- And then the hierarchical approach to fitlers
+
+- Use the background to your advantage=> cluster the background and then change the actual object
+
+
+Transfer learning...
+	Egglendy book chapter
+
+- entropy based segmentation
+- hierarchical clustering
+
+
+keras - api / apps
+	mobile net
+	efficient net
