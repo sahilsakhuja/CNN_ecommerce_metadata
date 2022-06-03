@@ -47,7 +47,7 @@ The data is stored as follows:
 
 The final model pipeline has been created as below:
 
-![Model Pipeline](img_model_pipeline_overview.png)
+![Model Pipeline](img_model_pipeline_overview.PNG)
 
 ### Model Architecture (Goal 1)
 
